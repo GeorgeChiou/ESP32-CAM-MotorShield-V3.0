@@ -19,5 +19,7 @@ Active Mode : 2.5A<br>
 Operating Voltage : 3.9V ~ 5.1V<br>
 Battery Voltage Indication : Red light below 3.9V, Green light above 4.2V<br>
 
+電商販售連結 ICSHOP https://www.icshop.com.tw/product-page.php?28709<br>
+
 <div>ESP32-CAM Motor Shield - Mini Dog Build Instruction 組裝解說</div>
 <div><a href="https://www.youtube.com/watch?v=lJiUBmgqfdM"><img src="https://img.youtube.com/vi/lJiUBmgqfdM/0.jpg"></a></div>
